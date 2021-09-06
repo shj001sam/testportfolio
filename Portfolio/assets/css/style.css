@@ -231,7 +231,7 @@ img{
 .home_img{
     width: 200px;
     position: absolute;
-    top: -1rem;
+    top: 8rem;
     right: 1.5rem;
 }
 
@@ -581,7 +581,7 @@ scrollup_icon{
 
     .home_img{
         width: 200px;
-        top: -13rem;
+        top: 7rem;
     }
 
     .home_title{
@@ -630,8 +630,9 @@ scrollup_icon{
         padding-top: 2rem;
     }
     .home_img{
-        top: -7rem;
+        top: 7rem;
         left: 0;
+        width: 300px;
     }
 
     .specs_img{
@@ -706,7 +707,7 @@ scrollup_icon{
         grid-template-columns: repeat(2, 1fr);
     }
     .home_img{
-        top: -9rem;
+        top: 7rem;
         left: 4rem;
     }
     .home_data{
@@ -767,8 +768,8 @@ scrollup_icon{
     }
     
     .home_img{
-        width: 300px;
-        top: -15rem;
+        width: 400px;
+        top: 2rem;
     }
     .home_title{
         top: -5rem;
